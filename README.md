@@ -190,7 +190,7 @@ npm run lint
 # Formatter
 npm run format
 
-# Tests (à venir)
+# Tests
 npm test
 ```
 
