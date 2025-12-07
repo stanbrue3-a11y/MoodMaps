@@ -1,0 +1,66 @@
+[
+  {
+    "id": "m1",
+    "lieuId": "1",
+    "imageUrl": "https://picsum.photos/600/400?random=10",
+    "text": "Moment parfait pour lire au calme ☕️",
+    "reactions": {
+      "chill": 24,
+      "festif": 3,
+      "creatif": 8
+    },
+    "createdAt": "2025-12-06T15:30:00Z",
+    "userId": "user1"
+  },
+  {
+    "id": "m2",
+    "lieuId": "2",
+    "imageUrl": "https://picsum.photos/600/400?random=11",
+    "text": "Incroyable DJ set hier soir ! 🎵",
+    "reactions": {
+      "chill": 5,
+      "festif": 42,
+      "creatif": 12
+    },
+    "createdAt": "2025-12-06T10:15:00Z",
+    "userId": "user2"
+  },
+  {
+    "id": "m3",
+    "lieuId": "3",
+    "imageUrl": "https://picsum.photos/600/400?random=12",
+    "text": "Atelier de peinture génial aujourd'hui 🎨",
+    "reactions": {
+      "chill": 8,
+      "festif": 6,
+      "creatif": 35
+    },
+    "createdAt": "2025-12-05T18:45:00Z",
+    "userId": "user3"
+  },
+  {
+    "id": "m4",
+    "lieuId": "4",
+    "imageUrl": "https://picsum.photos/600/400?random=13",
+    "reactions": {
+      "chill": 31,
+      "festif": 2,
+      "creatif": 5
+    },
+    "createdAt": "2025-12-05T14:20:00Z",
+    "userId": "user1"
+  },
+  {
+    "id": "m5",
+    "lieuId": "5",
+    "imageUrl": "https://picsum.photos/600/400?random=14",
+    "text": "Vue imprenable sur Paris ! 🌇",
+    "reactions": {
+      "chill": 15,
+      "festif": 28,
+      "creatif": 9
+    },
+    "createdAt": "2025-12-04T20:00:00Z",
+    "userId": "user2"
+  }
+]
