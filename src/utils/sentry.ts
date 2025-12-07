@@ -1,10 +1,9 @@
 import * as Sentry from '@sentry/react-native';
-import Constants from 'expo-constants';
 
 // Sentry is configured but disabled by default
 // Add your DSN in .env to enable it: SENTRY_DSN=your-sentry-dsn
 
-const sentryDsn = Constants.expoConfig?.extra?.sentryDsn || process.env.SENTRY_DSN;
+const sentryDsn = process.env.SENTRY_DSN;
 
 export function initSentry() {
   if (sentryDsn) {

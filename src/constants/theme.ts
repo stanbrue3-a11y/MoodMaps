@@ -4,9 +4,9 @@ export const colors = {
   festif: '#F19938',
   creatif: '#9B6BFF',
 
-  // Accent Colors
+  // Accent Colors - darkened for better contrast with white text (WCAG AA)
   accent: '#F4A261',
-  accentDark: '#E57E1F',
+  accentDark: '#D86C20', // Darker shade for better contrast
 
   // Status Colors
   statusOpen: '#4CAF50',

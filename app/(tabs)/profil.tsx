@@ -40,7 +40,7 @@ export default function ProfilScreen() {
       quality: 0.8,
     });
 
-    if (!result.canceled) {
+    if (!result.canceled && result.assets[0]) {
       setAvatarUri(result.assets[0].uri);
       Alert.alert('Avatar mis à jour', 'Votre avatar a été modifié avec succès.');
     }
