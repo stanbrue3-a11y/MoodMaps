@@ -1,0 +1,159 @@
+[
+  {
+    "id": "1",
+    "name": "Le Petit Chill",
+    "quartier": "Marais",
+    "arrondissement": "3ème",
+    "mood": "chill",
+    "priceLevel": "€€",
+    "description": "Un café cosy parfait pour se détendre avec un bon livre",
+    "horaires": "Lun-Dim: 9h-22h",
+    "isOpen": true,
+    "rating": 4.5,
+    "address": "12 Rue des Archives, 75003 Paris",
+    "website": "https://lepetitchill.fr",
+    "location": {
+      "latitude": 48.8606,
+      "longitude": 2.3522
+    },
+    "tags": ["café", "calme", "lecture"],
+    "imageUrl": "https://picsum.photos/400/300?random=1"
+  },
+  {
+    "id": "2",
+    "name": "La Fête Électrique",
+    "quartier": "Oberkampf",
+    "arrondissement": "11ème",
+    "mood": "festif",
+    "priceLevel": "€€€",
+    "description": "Club électro avec DJ sets tous les weekends",
+    "horaires": "Jeu-Sam: 23h-6h",
+    "isOpen": false,
+    "rating": 4.2,
+    "address": "45 Rue Oberkampf, 75011 Paris",
+    "website": "https://lafeteelectrique.fr",
+    "location": {
+      "latitude": 48.8644,
+      "longitude": 2.3778
+    },
+    "tags": ["club", "musique", "danse"],
+    "imageUrl": "https://picsum.photos/400/300?random=2"
+  },
+  {
+    "id": "3",
+    "name": "L'Atelier Créatif",
+    "quartier": "Montmartre",
+    "arrondissement": "18ème",
+    "mood": "creatif",
+    "priceLevel": "€",
+    "description": "Espace de coworking et ateliers artistiques",
+    "horaires": "Lun-Ven: 10h-20h, Sam: 10h-18h",
+    "isOpen": true,
+    "rating": 4.7,
+    "address": "23 Rue des Abbesses, 75018 Paris",
+    "location": {
+      "latitude": 48.8846,
+      "longitude": 2.3387
+    },
+    "tags": ["art", "coworking", "ateliers"],
+    "imageUrl": "https://picsum.photos/400/300?random=3"
+  },
+  {
+    "id": "4",
+    "name": "Zen Garden",
+    "quartier": "Canal Saint-Martin",
+    "arrondissement": "10ème",
+    "mood": "chill",
+    "priceLevel": "€€",
+    "description": "Salon de thé japonais avec jardin intérieur",
+    "horaires": "Mar-Dim: 11h-19h",
+    "isOpen": true,
+    "rating": 4.6,
+    "address": "8 Quai de Valmy, 75010 Paris",
+    "website": "https://zengarden.paris",
+    "location": {
+      "latitude": 48.8719,
+      "longitude": 2.3656
+    },
+    "tags": ["thé", "zen", "jardin"],
+    "imageUrl": "https://picsum.photos/400/300?random=4"
+  },
+  {
+    "id": "5",
+    "name": "Le Rooftop Festif",
+    "quartier": "Saint-Germain",
+    "arrondissement": "6ème",
+    "mood": "festif",
+    "priceLevel": "€€€",
+    "description": "Bar rooftop avec vue panoramique sur Paris",
+    "horaires": "Mer-Dim: 18h-2h",
+    "isOpen": true,
+    "rating": 4.4,
+    "address": "34 Rue de Seine, 75006 Paris",
+    "website": "https://rooftopfestif.fr",
+    "location": {
+      "latitude": 48.8534,
+      "longitude": 2.3364
+    },
+    "tags": ["bar", "rooftop", "cocktails"],
+    "imageUrl": "https://picsum.photos/400/300?random=5"
+  },
+  {
+    "id": "6",
+    "name": "Studio d'Art",
+    "quartier": "Belleville",
+    "arrondissement": "20ème",
+    "mood": "creatif",
+    "priceLevel": "€",
+    "description": "Galerie et studio ouvert aux artistes émergents",
+    "horaires": "Mer-Dim: 14h-20h",
+    "isOpen": false,
+    "rating": 4.3,
+    "address": "56 Rue de Belleville, 75020 Paris",
+    "location": {
+      "latitude": 48.8722,
+      "longitude": 2.3889
+    },
+    "tags": ["galerie", "art", "exposition"],
+    "imageUrl": "https://picsum.photos/400/300?random=6"
+  },
+  {
+    "id": "7",
+    "name": "Bibliothèque Cosy",
+    "quartier": "Latin Quarter",
+    "arrondissement": "5ème",
+    "mood": "chill",
+    "priceLevel": "€",
+    "description": "Bibliothèque-café avec ambiance feutrée",
+    "horaires": "Lun-Sam: 8h-21h",
+    "isOpen": true,
+    "rating": 4.8,
+    "address": "15 Rue de la Sorbonne, 75005 Paris",
+    "website": "https://bibliothequecosy.fr",
+    "location": {
+      "latitude": 48.8486,
+      "longitude": 2.3431
+    },
+    "tags": ["bibliothèque", "café", "étude"],
+    "imageUrl": "https://picsum.photos/400/300?random=7"
+  },
+  {
+    "id": "8",
+    "name": "Dance Floor Paris",
+    "quartier": "Pigalle",
+    "arrondissement": "9ème",
+    "mood": "festif",
+    "priceLevel": "€€",
+    "description": "Salle de danse et cours en soirée",
+    "horaires": "Lun-Sam: 19h-1h",
+    "isOpen": true,
+    "rating": 4.1,
+    "address": "28 Boulevard de Clichy, 75009 Paris",
+    "location": {
+      "latitude": 48.8833,
+      "longitude": 2.3319
+    },
+    "tags": ["danse", "cours", "soirée"],
+    "imageUrl": "https://picsum.photos/400/300?random=8"
+  }
+]
